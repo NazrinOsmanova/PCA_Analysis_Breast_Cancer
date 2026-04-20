@@ -2,7 +2,10 @@
 
 Bu layihədə **Breast Cancer Wisconsin (Diagnostic) Dataset** istifadə edilərək, **PCA (Principal Component Analysis)** metodu ilə xərçəng xəstəliyi nəticələrinin vizual ayrılması həyata keçirilmişdir.
 
+
 Dataset: [Kaggle – Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+
+Notebook: [Open in Google Colab](https://colab.research.google.com/drive/1yP0L9mr7snKTQ4CYRnqhMbWOeEyKZha6?usp=sharing)
 
 ---
 
@@ -45,6 +48,8 @@ Layihənin əsas məqsədi, xəstələrin analiz nəticələrini və tibbi qeydl
 ---
 
 ## Nəticə
+
+![PCA Plot](PCA_Result.png)
 
 PCA nəticəsində **iki qrup bir-birindən vizual olaraq ayrılıb**, yəni PCA bu ədədi feature-larla xəstələri qismən ayırmağa imkan verir. Bu analiz xəstələrin bədxassəli və xoşxassəli olmasını vizual təhlil üçün effektiv üsuldur.
 
