@@ -61,9 +61,3 @@ PCA nəticəsində **iki qrup bir-birindən vizual olaraq ayrılıb**, yəni PCA
 2. Dataset-i yükləyin.  
 3. Addımları ardıcıl olaraq işə salın.  
 4. Scatter plot və PCA komponentlərinin məlumat paylanmasını müşahidə edin.
-
----
-
-## Lisensiya
-
-Bu layihə təhsil məqsədli istifadə üçündür.
